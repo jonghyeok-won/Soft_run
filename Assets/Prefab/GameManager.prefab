@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7951029914330145938
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5921048154159814574}
+  - component: {fileID: 4542058632884545806}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5921048154159814574
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7951029914330145938}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.45486778, y: -1.0047904, z: -0.8046741}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4542058632884545806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7951029914330145938}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e27209be7660c4db98e9d817897175, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  NumberImage:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  Number:
+  - {fileID: 21300000, guid: c4fcc3a64aba78b4084d3e83fc0a455e, type: 3}
+  - {fileID: 21300000, guid: c157fdbc024ccf1409a6539e9555b825, type: 3}
+  - {fileID: 21300000, guid: fdb6a4d5f28dbb140b5e727756fbce6c, type: 3}
+  - {fileID: 21300000, guid: f12cf33172349c746a14ffbd37082857, type: 3}
+  - {fileID: 21300000, guid: d5369be1318d60d4582f28b594684f86, type: 3}
+  - {fileID: 21300000, guid: 81845308938f19448945dde85c398462, type: 3}
+  - {fileID: 21300000, guid: 4f05d695745d3f74bbb9b866ea48311f, type: 3}
+  - {fileID: 21300000, guid: cb0489baaa748884e8d2fe331bdf4f95, type: 3}
+  - {fileID: 21300000, guid: 0d9c06cfac5a2e2488a628c1b4ff86ca, type: 3}
+  - {fileID: 21300000, guid: e5bb4c8b51b2d01498bbf6171df74f18, type: 3}
+  hearts:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  fullHeart: {fileID: 21300000, guid: fed24bd82cefc0c4a8ef64dab6231b53, type: 3}
+  emptyHeart: {fileID: 21300002, guid: fed24bd82cefc0c4a8ef64dab6231b53, type: 3}
+  currentscore: 0

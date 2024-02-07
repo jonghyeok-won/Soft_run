@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c86306b2edf32814dbb61bbfbb2937ef
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames: []
+  customCharacters: 
+  fontRenderingMode: 0
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16120
+  packageName: Login Module
+  packageVersion: 1.1.3f1
+  assetPath: Assets/Devion Games/Login System/Example/Sci-Fi UI/Font/FontinSans_Cyrillic_B_0.otf
+  uploadId: 420874

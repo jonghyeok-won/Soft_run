@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb1430454a0b42c43b5259f501fc65d1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16120
+  packageName: Login Module
+  packageVersion: 1.1.3f1
+  assetPath: Assets/Devion Games/Login System/Example/Sci-Fi UI/Animations/Loading.controller
+  uploadId: 420874

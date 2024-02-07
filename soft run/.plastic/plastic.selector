@@ -1,0 +1,4 @@
+repository "soft run@wjh011004@cloud"
+  path "/"
+    br "/main"
+    co "/main"

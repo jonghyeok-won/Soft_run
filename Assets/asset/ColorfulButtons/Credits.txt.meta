@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4eac82759f3d2c840ac256db53fc34ef
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44118
+  packageName: Colorful Buttons
+  packageVersion: 1.0
+  assetPath: Assets/ColorfulButtons/Credits.txt
+  uploadId: 77401

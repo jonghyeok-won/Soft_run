@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/BackEnd/Scenes/Logo.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/BackEnd/Scenes/Login.unity
+    guid: aa29537d4b62aae4d8098a45d6304bdb
+  - enabled: 0
+    path: Assets/BackEnd/Scenes/Lobby.unity
+    guid: 539c9fb7f9bf20d4eb81893f58af2957
+  - enabled: 1
+    path: Assets/UI/Scenes/HOME.unity
+    guid: acef4adb018b225429c6159d7bc3dfa7
+  - enabled: 1
+    path: Assets/UI/Scenes/SETTING.unity
+    guid: 5596008a82d849d4d84d724bc792d1b6
+  - enabled: 1
+    path: Assets/UI/Scenes/CHRACTER.unity
+    guid: c08e99c825b324a45b5925421df9ab1b
+  - enabled: 1
+    path: Assets/UI/Scenes/DEVELOPERS.unity
+    guid: 2bf33a01489116b40b6cf361256c733b
+  - enabled: 0
+    path: Assets/Map/Scenes/Map1.unity
+    guid: f573d518776f9984dbb3d5b4ffea5e42
+  - enabled: 1
+    path: Assets/UI/Scenes/STAGE_LIST_Java.unity
+    guid: a5fffba4f94e3d34f9cb18bd340fdc44
+  - enabled: 1
+    path: Assets/UI/Scenes/STAGE_LIST_Python.unity
+    guid: d8356b5357d2e6a4e976e554aad42d90
+  - enabled: 1
+    path: Assets/UI/Scenes/STAGE_LIST_C.unity
+    guid: 21d0c315bd1b43c4fb620ae212498d54
+  - enabled: 1
+    path: Assets/Map/Scenes/EARTH_C.unity
+    guid: 54bb64b39534c8f439abdb6da2ede2da
+  - enabled: 1
+    path: Assets/Map/Scenes/MOON_C.unity
+    guid: 5799e02729551d24c9033457879fce9c
+  - enabled: 1
+    path: Assets/Map/Scenes/EARTH_Java.unity
+    guid: 49a590a9a5306bc47ab9c3703fd135c9
+  - enabled: 1
+    path: Assets/Map/Scenes/EARTH_Python.unity
+    guid: 4753b64b2e1eaef40824fcdd194506e2
+  - enabled: 1
+    path: Assets/Map/Scenes/JUPITER_C.unity
+    guid: 512dd924f06d4bf4c9b5989a8e496383
+  - enabled: 1
+    path: Assets/Map/Scenes/JUPITER_Java.unity
+    guid: c909e1037e797de449fbff76630d4099
+  - enabled: 1
+    path: Assets/Map/Scenes/JUPITER_Python.unity
+    guid: 3925a466615e88846b59c1aff8fdd44b
+  - enabled: 1
+    path: Assets/Map/Scenes/Mars_C.unity
+    guid: 94711fc4ab0c4a1479345f424af21802
+  - enabled: 1
+    path: Assets/Map/Scenes/Mars_Java.unity
+    guid: 8d87888064943cd41a777356cefbcee1
+  - enabled: 1
+    path: Assets/Map/Scenes/Mars_Python.unity
+    guid: ac399da5375952f4594c5083f64d0b79
+  - enabled: 1
+    path: Assets/Map/Scenes/MOON_Java.unity
+    guid: e008abf68eda67a4292506b6857f60b0
+  - enabled: 1
+    path: Assets/Map/Scenes/MOON_Python.unity
+    guid: fd726b23c12199a4bac89cd147d031d8
+  - enabled: 1
+    path: Assets/Map/Scenes/Saturn_C.unity
+    guid: 2cedd6d6eac33a44da1210dadab97de7
+  - enabled: 1
+    path: Assets/Map/Scenes/Saturn_Java.unity
+    guid: c4563b3442901d9448f64e5e6f475270
+  - enabled: 1
+    path: Assets/Map/Scenes/Saturn_Python.unity
+    guid: d9a2cc1d952667549ab1e7e0c1ffdd70
+  - enabled: 1
+    path: Assets/Map/Scenes/Uranus_C.unity
+    guid: 8e3c11477afe7a043ac1e90b6aa5717a
+  - enabled: 1
+    path: Assets/Map/Scenes/Uranus_Java.unity
+    guid: 208b60e107b13304ba7e58badf89b1c7
+  - enabled: 1
+    path: Assets/Map/Scenes/Uranus_Python.unity
+    guid: 52fe65277db86fd4a9a40fdbe8ec6f0c
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
